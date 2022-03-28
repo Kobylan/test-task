@@ -39,6 +39,7 @@
 * Tailwind CSS.
 
 #### JS
+* TypeScript
 * React Router v6.
 * GraphQL client на ваше усмотрение.
 
